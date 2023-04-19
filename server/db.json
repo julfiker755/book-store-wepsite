@@ -1,0 +1,49 @@
+{
+  "books": [
+    {
+      "name": "Slow Horses (Deluxe Edition)",
+      "author": "Mick Herron",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg",
+      "price": 14,
+      "rating": 3,
+      "featured": false,
+      "id": 1
+    },
+    {
+      "name": "The Last Thing He Told Me: A Novel",
+      "author": "Laura Dave",
+      "thumbnail": "https://m.media-amazon.com/images/P/1501171348.01._SCLZZZZZZZ_SX500_.jpg",
+      "price": 13.99,
+      "rating": 4,
+      "featured": false,
+      "id": 2
+    },
+    {
+      "name": "Eloquent JavaScript, 3rd Edition",
+      "author": "Marijn Haverbeke",
+      "thumbnail": "https://m.media-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg",
+      "price": 23.99,
+      "rating": 4,
+      "featured": true,
+      "id": 4
+    },
+    {
+      "name": "Bangla vai boss বিজনেস ব্লুপ্রিন্ট (হার্ডকভার) হাউ টু উইন দ্য ব্যাটেলগ্রাউন্ড অব বিজনেস",
+      "author": " মুহাম্মদ ইলিয়াস কাঞ্চন (কোচ কাঞ্চন)",
+      "thumbnail": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Business_Blueprint_-Coch_Kanchan-c95f1-235280.jpg",
+      "price": "50099",
+      "rating": "2",
+      "featured": true,
+      "id": 11
+    },
+    {
+      "name": "মুহাম্মাদ সা. দ্যা আল্টিমেট লিডার",
+      "author": "ড. দাউদ বাচলার ,  সিদ্দিক স্বপন (অনুবাদক) ,  ওয়াহিদুল হাদী (অনুবাদক)",
+      "thumbnail": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Muhammad_The_Ultimate_Leader-Siddique_Swopon-48484-271313.png",
+      "price": "160",
+      "rating": "3",
+      "featured": true,
+      "id": 12
+    }
+  ]
+}
